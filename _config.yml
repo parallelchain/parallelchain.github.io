@@ -6,11 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Parallel Chain
+title: 平行链
 email: parallelchain@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  We believe that parallel chain is best for all problems of blockchain,
-  and fork is function for problems now.
+  关于区块链各种问题的观点。 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://parallelchain.github.io" # the base hostname & protocol for your site
 twitter_username: parallelchain 
