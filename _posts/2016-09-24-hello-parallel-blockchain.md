@@ -1,19 +1,10 @@
 ---
 layout: post
-title:  Hello Parallel Blockchain
+title:  缘由
 category: blockchain 
-description: Simple hello to parallel blockchain.
+description: 我们考虑通过平行链解决问题的缘由
 ---
 
-# Hello Parallel Chain
-We are exploring parallel blockchain to fix problems of blockchain in 2016. In 2016, many applications are emerging, and all of us think blockchain is comming. But blockchain as follow problems.
+# 缘由
 
-### Problems
-
-- Speed problem
-- Volume problem
-- Forking problem
-
-Speed of bitcoin is limited by 7 txs per second, and ethereum is also limited. Speed of other blockchains use PBFT consensus algorithm is below of VISA, Paypal, and other centralized systems. Lighting network and thunder network are proposed to solve problem. But both of these do not solve the speed of settlement of core blockchain. They just cache transactions, postponse to submit transactions. The problem is still there.
-
-Volume is another
+啦啦啦
